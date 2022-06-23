@@ -1,4 +1,8 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更  
+<<<<<<< HEAD
+rebase-practiceブランチで変更(2nd)
+=======
 conflict-remote上で更新(コンフリクト発生)
+>>>>>>> af0b4a08cfd490536f2bfeb932e5e19b8a5709d0
